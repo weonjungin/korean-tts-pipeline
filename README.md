@@ -1,7 +1,3 @@
-아 또 똑같은 실수 반복했다 — 바깥에 큰 코드펜스로 전체를 감싸면서 안에 있는 ```bash```랑 파이프라인 다이어그램용 코드블록이 충돌해서 깨진 거야. 이번엔 바깥 펜스 없이 줄게.
-
----
-
 # korean-tts-pipeline
 
 English-to-Korean speech translation pipeline with personalized TTS. Combines speech recognition, machine translation, and a FastSpeech2-based TTS model fine-tuned on personal voice data.
